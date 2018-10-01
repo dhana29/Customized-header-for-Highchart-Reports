@@ -47,7 +47,6 @@ In this repository I discussed about to create customized Header -
                 }
        },
  </pre>
- > //text: '<span style="font-size: 16px;font-weight:bold;font-family: Arial"> Line1 Title Text </span><br/> <span style="font-size: 14px;font-weight:bold;font-family: Arial">Line2 Title Text</span>'
  
  **Header Sub Title Text -** 
  <pre>
@@ -61,6 +60,5 @@ In this repository I discussed about to create customized Header -
                 }
             }
  </pre>
- > //<span> Line1 sub Title Text </span><br/> <span>Line2 sub Title Text</span>
  
  Happy Coding!!!
